@@ -1,1 +1,1 @@
-"# Git Started: Task 1" 
+# Git Started: Task 1
